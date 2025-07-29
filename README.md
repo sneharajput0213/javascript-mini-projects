@@ -24,10 +24,10 @@ No installation needed!
 
 | Project | Link |
 |--------|------|
-| Theme Toggle | [Live Demo](https://yourusername.github.io/javascript-mini-projects/01-theme-toggle/) |
-| Color Flipper | [Live Demo](https://yourusername.github.io/javascript-mini-projects/02-color-flipper/) |
-| Dice Roller | [Live Demo](https://yourusername.github.io/javascript-mini-projects/03-expense-tracker/) |
-| Character Counter | [Live Demo]
-| Guess the Number | [Live Demo]
-|Age Calculator | [Live Demo]
-|Counter App | [Live Demo]
+| Theme Toggle | [Live Demo](https://sneharajput0213.github.io/javascript-mini-projects/01-theme-toggle) |
+| Color Flipper | [Live Demo](https://sneharajput0213.github.io/javascript-mini-projects/02-color-flipper/) |
+| Dice Roller | [Live Demo](https://sneharajput0213.github.io/javascript-mini-projects/03-dice-roller/) |
+| Character Counter | [Live Demo](https://sneharajput0213.github.io/javascript-mini-projects/04-character-counter/) | 
+| Guess the Number | [Live Demo](https://sneharajput0213.github.io/javascript-mini-projects/05-guess-the-number/) |
+|Age Calculator | [Live Demo](https://sneharajput0213.github.io/javascript-mini-projects/06-age-calculator/) |
+|Counter App | [Live Demo](https://sneharajput0213.github.io/javascript-mini-projects/07-counter-app/) |
