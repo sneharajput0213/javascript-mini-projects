@@ -1,0 +1,26 @@
+body {
+  transition: background-color 0.3s ease, color 0.3s ease;
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  text-align: center;
+}
+
+body.light {
+  background-color: #ffffff;
+  color: #121212;
+}
+
+body.dark {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+#toggle-btn {
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-top: 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #555;
+  color: #fff;
+}

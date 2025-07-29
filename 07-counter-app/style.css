@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #84BCDA;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem;
+}
+button{
+    background-color: #067BC2;
+    padding: 0.5rem 1.5rem;
+    border-radius: 20px;
+}
+button:hover{
+    transform: scale(1.05);
+    background-color: #045c9c;
+    cursor: pointer;
+    transition: all 0.2s ease;
+}
