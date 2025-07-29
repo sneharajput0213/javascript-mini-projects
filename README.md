@@ -19,3 +19,15 @@ Each project is self-contained. To try any project:
 2. Open the `index.html` file in your browser
 
 No installation needed!
+
+## 🔗 Live Demos
+
+| Project | Link |
+|--------|------|
+| Theme Toggle | [Live Demo](https://yourusername.github.io/javascript-mini-projects/01-theme-toggle/) |
+| Color Flipper | [Live Demo](https://yourusername.github.io/javascript-mini-projects/02-color-flipper/) |
+| Dice Roller | [Live Demo](https://yourusername.github.io/javascript-mini-projects/03-expense-tracker/) |
+| Character Counter | [Live Demo]
+| Guess the Number | [Live Demo]
+|Age Calculator | [Live Demo]
+|Counter App | [Live Demo]
